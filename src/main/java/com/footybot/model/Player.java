@@ -13,6 +13,7 @@ public class Player {
     private Long id;
 
     private String name;
+    private String mobno;
     private String position;
     private int age;
     private String team;
